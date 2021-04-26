@@ -1,0 +1,1 @@
+Este projeto trata-se de um sistema de gerenciamento de uma sorveteria, o mesmo será atualizado de acordo com as novas tecnologias que irei me especializar.
